@@ -1,0 +1,8 @@
+pandas
+matplotlib
+jupyter_contrib_nbextensions
+hide_code==0.5.2
+ipyevents
+ipywidgets
+networkx
+IPython
